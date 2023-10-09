@@ -1,5 +1,5 @@
 # The 2048 game in beautiful JavaScript
-  - [DEMO LINK](https://oleksandrshtonda.github.io/2048-game/)
+  - [DEMO LINK](https://oleksandrshtonda.github.io/todo-app-with-api/)
 
 ## What technologies were used for creating this game?
   **Languages:**
