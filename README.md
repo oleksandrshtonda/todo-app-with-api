@@ -1,9 +1,19 @@
-# React TypeScript Starter Pack
+# The 2048 game in beautiful JavaScript
+  - [DEMO LINK](https://oleksandrshtonda.github.io/2048-game/)
 
-To use this template click `Use this template`
+## What technologies were used for creating this game?
+  **Languages:**
+    - HTML5
+    - CSS3
+    - SASS **(SCSS)**
+    - JavaScript
+    - TypeScript
+  
+  **Libraries:**:
+    - React.ts
+    - classnames
 
-### Available Scripts
-
-`Deploy` - available to deploy your application to gh-pages
-
-`SCSS Preprocessor` - available to write your styles with modern style language
+## How to run this project
+  Run these commands in your terminal:
+  - `npm install` or `npm i`
+  - `npm start`
