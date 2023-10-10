@@ -1,4 +1,4 @@
-# The 2048 game in beautiful JavaScript
+# ToDo App
   - [DEMO LINK](https://oleksandrshtonda.github.io/todo-app-with-api/)
 
 ## What technologies were used for creating this game?
