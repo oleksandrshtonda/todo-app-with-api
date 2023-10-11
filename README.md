@@ -1,7 +1,7 @@
-# ToDo App
+# LightManager
   - [DEMO LINK](https://oleksandrshtonda.github.io/todo-app-with-api/)
 
-## What technologies were used for creating this game?
+## What technologies were used for creating the app?
   **Languages:**  
     - HTML5  
     - CSS3  
